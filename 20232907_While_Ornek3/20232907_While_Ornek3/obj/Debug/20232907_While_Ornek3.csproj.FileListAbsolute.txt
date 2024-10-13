@@ -1,0 +1,8 @@
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\bin\Debug\20232907_While_Ornek3.exe.config
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\bin\Debug\20232907_While_Ornek3.exe
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\bin\Debug\20232907_While_Ornek3.pdb
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\obj\Debug\20232907_While_Ornek3.csproj.AssemblyReference.cache
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\obj\Debug\20232907_While_Ornek3.csproj.SuggestedBindingRedirects.cache
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\obj\Debug\20232907_While_Ornek3.csproj.CoreCompileInputs.cache
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\obj\Debug\20232907_While_Ornek3.exe
+C:\Users\smart.konuk\source\repos\20232907_While_Ornek3\20232907_While_Ornek3\obj\Debug\20232907_While_Ornek3.pdb
